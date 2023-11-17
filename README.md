@@ -1,4 +1,4 @@
-# DevOps
+﻿# DevOps
 
 Changes GIT
 
@@ -40,3 +40,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+added string
