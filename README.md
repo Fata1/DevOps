@@ -52,7 +52,6 @@ Update CHANGELOG.md
 
 > 		 Комманда: git log -L :"func globalPluginDirs":plugins.go --oneline
 
-> 		 Комманда: git show --pretty=format:' %P' b8d720
     8b1220558 Remove config.go and update things using its aliases
     52dbf94834 keep .terraform.d/plugins for discovery
     41ab0aef7a Add missing OS_ARCH dir to global plugin paths
@@ -63,4 +62,5 @@ Update CHANGELOG.md
 > 		 Комманды: git log -S"func synchronizedWriters(" --pretty=format:"%h "
 >         git show bdfea50cc8
 >         git show 5ac311e2a9
+    
     Martin Atkins
